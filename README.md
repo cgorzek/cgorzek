@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @cgorzek
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ... C++
+- 👀 I’m interested in coding, machine learning and lots of other stuff.
+- 🌱 I’m currently learning ... C++, machine learning
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... please message me on LinkedIn.
 
 <!---
 cgorzek/cgorzek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
